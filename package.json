@@ -1,6 +1,6 @@
 {
   "name": "@pariveda/name-display",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/components/NameDisplay.react.js",
   "description": "New test component!",
   "author": "Pariveda Solutions - Adrian Kosciak",
